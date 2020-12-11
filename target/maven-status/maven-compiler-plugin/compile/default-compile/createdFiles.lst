@@ -1,0 +1,8 @@
+com\mozart\restApiDemo\repository\ItemRepository.class
+com\mozart\restApiDemo\config\MongoDBConfig.class
+com\mozart\restApiDemo\controller\ItemController.class
+com\mozart\restApiDemo\document\Item.class
+com\mozart\restApiDemo\document\Users.class
+com\mozart\restApiDemo\controller\UsersResource.class
+com\mozart\restApiDemo\RestApiDemo.class
+com\mozart\restApiDemo\repository\UsersRepository.class
